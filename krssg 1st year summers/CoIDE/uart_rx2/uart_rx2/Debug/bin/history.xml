@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.4.1 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=uart_rx2.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\uart_rx2 -TC:\CooCox\CoIDE\configuration\ProgramData\uart_rx2/arm-gcc-link.ld -g">
+      <target file="uart_rx2.elf" lastModified="16a8744cd39">
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="16a82be7166"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="16a82be7216"/>
+         <source file="..\obj\stm32f4xx_pwr.o" lastModified="16a82be729e"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="16a82be7316"/>
+         <source file="..\obj\main.o" lastModified="16a8744ca9f"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="16a82be745a"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="16a82be752e"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="16a82be75ba"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="16a82be763a"/>
+         <source file="..\obj\stm32f4xx_dma.o" lastModified="16a82be76de"/>
+         <source file="..\obj\misc.o" lastModified="16a82be77a2"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="16a82be7916"/>
+      </target>
+   </processor>
+</history>

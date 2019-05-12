@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.4.1 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=ADC4.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\ADC4 -TC:\CooCox\CoIDE\configuration\ProgramData\ADC4/arm-gcc-link.ld -g">
+      <target file="ADC4.elf" lastModified="16a82baa717">
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="16a82b4a403"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="16a82b4a4b3"/>
+         <source file="..\obj\stm32f4xx_pwr.o" lastModified="16a82b4a53f"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="16a82b4a5c3"/>
+         <source file="..\obj\main.o" lastModified="16a82baa48a"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="16a82b4a753"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="16a82b4a80b"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="16a82b4a89f"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="16a82b4a91f"/>
+         <source file="..\obj\stm32f4xx_dma.o" lastModified="16a82b4a9c3"/>
+         <source file="..\obj\misc.o" lastModified="16a82b4aa43"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="16a82b4ab5c"/>
+      </target>
+   </processor>
+</history>

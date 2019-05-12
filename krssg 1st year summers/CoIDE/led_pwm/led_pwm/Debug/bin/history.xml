@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.4.1 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=led_pwm.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\led_pwm -TC:\CooCox\CoIDE\configuration\ProgramData\led_pwm/arm-gcc-link.ld -g">
+      <target file="led_pwm.elf" lastModified="16a14daaad7">
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="16a10990ed5"/>
+         <source file="..\obj\main.o" lastModified="16a14daa874"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="16a109910ff"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="16a109911ba"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="16a10991266"/>
+         <source file="..\obj\stm32f4xx_flash.o" lastModified="16a10991360"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="16a109913dd"/>
+         <source file="..\obj\syscalls.o" lastModified="16a1099145a"/>
+         <source file="..\obj\stm32f4xx_spi.o" lastModified="16a10991507"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="16a10991584"/>
+         <source file="..\obj\stm32f4xx_rtc.o" lastModified="16a1099166e"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="16a1099179b"/>
+      </target>
+   </processor>
+</history>
